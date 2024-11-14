@@ -1,3 +1,4 @@
+import 'package:aslab_travel/latihanmodul/pertemuan6.dart';
 import 'package:aslab_travel/project/screens/landing_page.dart';
 import 'package:flutter/material.dart';
 
